@@ -6,7 +6,7 @@
 [![DOI](https://zenodo.org/[...]
 
 ## Purpose of the model
-The TIMES-GEO model is an open-source, global energy system model covering energy systems dynamics for 31 regions of which 16 countries and 15 regional aggregates. The model has been developed by University College Cork and E4SMA in the context of the CHIMERA project , and released publicly under a Creative Commons Attribution-NonCommercial-Share Alike 4.0 International Public License. The model finds the lowest-cost pathway to explore the evolution of the world’s energy system for electricity, transport, industry, buildings, energy-related agriculture, and novel fuels like hydrogen, e-fuels, and bioenergy to reduce emissions and meet mitigation targets
+The TIMES-GEO model is an open-source, global energy system model covering energy systems dynamics for 31 regions of which 16 countries and 15 regional aggregates. The model has been developed by University College Cork and E4SMA in the context of the CHIMERA project. The model finds the lowest-cost pathway to explore the evolution of the world’s energy system for electricity, transport, industry, buildings, energy-related agriculture, and novel fuels like hydrogen, e-fuels, and bioenergy to reduce emissions and meet mitigation targets.
 
 ## Documentation
 More information on the TIMES model generator and specific information about TIMES-GEO can be found in the [Documentation](....).
@@ -27,3 +27,9 @@ At the moment no scenario cases have been applied to the model.
 
 ## Peer-reviewed publications
 A documentation paper is currently in preparation.
+
+## License
+
+Copyright 2018-2024 University College Cork.
+
+TIMES-GEO is released under a Creative Commons Attribution-NonCommercial-Share Alike 4.0 International Public License.
