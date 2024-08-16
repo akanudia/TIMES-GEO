@@ -22,8 +22,8 @@ Reference to Github repository: https://github.com/MaREI-EPMG/TIMES-GEO
 ## Climate policy use
 This model has been built to better inform increased global mitigation ambition.
 
-## Scenario descriptions
-At the moment no scenario cases have been applied to the model. 
+<!-- ## Scenario descriptions -->
+<!--At the moment no scenario cases have been applied to the model. -->
 
 ## Peer-reviewed publications
 A documentation paper is currently in preparation.
