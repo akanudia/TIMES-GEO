@@ -27,4 +27,4 @@ This model has been built to better inform increased global mitigation ambition.
 A documentation paper is currently in preparation.
 
 ## License
-TIMES-GEO is released under a Creative Commons Attribution-NonCommercial-Share Alike 4.0 International Public [License](/LICENSE.txt).
+TIMES-GEO is released under a [Creative Commons Attribution-NonCommercial-Share Alike 4.0 International Public License](/LICENSE.txt).
