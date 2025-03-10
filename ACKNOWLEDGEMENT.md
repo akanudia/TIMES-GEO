@@ -2,20 +2,19 @@
 
 ## Authors
 ### Original developers of the TIMES-GEO
-* Alessando Chiodi 
-* Gabriele Cassetti 
-* Ioannis Vrochidis 
+* Alessandro Chiodi
+* Gabriele Cassetti
 * Alessia Elia
 * Maurizio Gargiulo
 * Conor Murphy
 * Cian Patrick Linehan
-* Brian O'Gallachoir
+* Brian Ó Gallachóir
 
 
 ## Contributing developers
+* James Glynn
 * Paul Deane
 * Siddharth Joshi
-* James Glynn
 
 
 ## Specific Contributions
@@ -25,7 +24,9 @@ Vahid Aryanpur - For the public release of the TIMES-GEO
 
 Sonja Sechi - For documentating the TIMES-GEO
 
-Tommaso Pillon - For quality checks
+Tommaso Pillon - For quality checks and debugging
+
+Ioannis Vrochidis - For quality checks and debugging
 
 
 ## Reviewers
