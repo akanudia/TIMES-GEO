@@ -19,9 +19,12 @@
 
 
 ## Specific Contributions
-Olexandr Balyk - For the public release of the TIMES-GEO 
+Olexandr Balyk - For the public release of the TIMES-GEO
+
 Vahid Aryanpur - For the public release of the TIMES-GEO
+
 Sonja Sechi - For documentating the TIMES-GEO
+
 Tommaso Pillon - For quality checks
 
 
