@@ -3,11 +3,11 @@
 ## Authors
 ### Original developers of the TIMES-GEO
 * Alessandro Chiodi
+* Maurizio Gargiulo
+* Cian Patrick Linehan
+* Conor Murphy
 * Gabriele Cassetti
 * Alessia Elia
-* Maurizio Gargiulo
-* Conor Murphy
-* Cian Patrick Linehan
 * Brian Ó Gallachóir
 
 
