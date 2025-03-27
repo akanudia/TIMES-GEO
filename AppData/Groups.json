@@ -1,47 +1,92 @@
 [
-    {
-        "SavedGroupId": 83,
-        "GroupName": "TIMES-GEO",
-        "GroupType": "Properties",
-        "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"1\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
-        "CreatedOn": "2023-02-20 14:59",
-        "DisplayCreatedOn": "2023-02-20 14:59",
-        "UserName": "chiodi"
-    },
-    {
-        "SavedGroupId": 82,
-        "GroupName": "Baseline",
-        "GroupType": "Scenario",
-        "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"PWR_Batteries\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SR\"}, {\"Name\": \"UPS_Hydrogen\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\"}, {\"Name\": \"GHG_Absorption\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SS\"}, {\"Name\": \"TradeParameters\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"TS\"}, {\"Name\": \"00_DataByTimeslice_20\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\"}, {\"Name\": \"00_GHG_EmiFact\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"RS\"}, {\"Name\": \"00_Potentials\", \"Checked\": false, \"RowOrder\": 8, \"ShortName\": \"RS\"}, {\"Name\": \"01_DemandProjections_SSP2\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\"}]",
-        "CreatedOn": "2024-02-29 16:26",
-        "DisplayCreatedOn": "2024-02-29 16:26",
-        "UserName": "chiodi"
-    },
-    {
-        "SavedGroupId": 80,
-        "GroupName": "AllRegion",
-        "GroupType": "Region",
-        "Settings": "[\"AFE\", \"AFN\", \"AFW\", \"AFZ\", \"ANZ\", \"ARG\", \"ASC\", \"ASE\", \"ASO\", \"ASR\", \"BRA\", \"CAN\", \"CHN\", \"ENE\", \"ENW\", \"EUE\", \"EUW\", \"GBR\", \"IDN\", \"IND\", \"IRN\", \"JPN\", \"KOR\", \"LAM\", \"MEA\", \"MEX\", \"RUS\", \"SAU\", \"TUR\", \"USA\", \"ZAF\"]",
-        "CreatedOn": "2024-02-19 16:26",
-        "DisplayCreatedOn": "2024-02-19 16:26",
-        "UserName": "chiodi"
-    },
-    {
-        "SavedGroupId": 81,
-        "GroupName": "DefaultProperties",
-        "GroupType": "Properties",
-        "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
-        "CreatedOn": "2024-02-19 16:26",
-        "DisplayCreatedOn": "2024-02-19 16:26",
-        "UserName": "chiodi"
-    },
-    {
-        "SavedGroupId": 79,
-        "GroupName": "AllScenario",
-        "GroupType": "Scenario",
-        "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"GHG_Absorption\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SR\"}, {\"Name\": \"PWR_Batteries\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\"}, {\"Name\": \"UPS_Hydrogen\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SS\"}, {\"Name\": \"TradeParameters\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"TS\"}, {\"Name\": \"00_DataByTimeslice_20\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\"}, {\"Name\": \"00_GHG_EmiFact\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"RS\"}, {\"Name\": \"01_DemandProjections_SSP2\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\"}]",
-        "CreatedOn": "2024-03-13 11:12",
-        "DisplayCreatedOn": "2024-03-13 11:12",
-        "UserName": "chiodi"
-    }
+  {
+    "SavedGroupId": 92,
+    "GroupName": "all_Sensitivities",
+    "GroupType": "Parametric",
+    "Settings": "[\"Sensitivities_0005\", \"Sensitivities_0006\", \"Sensitivities_0010\", \"Sensitivities_0041\", \"Sensitivities_0045\", \"Sensitivities_0046\", \"Sensitivities_0050\"]",
+    "CreatedOn": "2025-03-27 14:28",
+    "DisplayCreatedOn": "2025-03-27 14:28",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 83,
+    "GroupName": "AllRegion",
+    "GroupType": "Region",
+    "Settings": "[\"AFE\", \"AFN\", \"AFW\", \"AFZ\", \"ANZ\", \"ARG\", \"ASC\", \"ASE\", \"ASO\", \"ASR\", \"BRA\", \"CAN\", \"CHN\", \"ENE\", \"ENW\", \"EUE\", \"EUW\", \"GBR\", \"IDN\", \"IND\", \"IRN\", \"JPN\", \"KOR\", \"LAM\", \"MEA\", \"MEX\", \"RUS\", \"SAU\", \"TUR\", \"USA\", \"ZAF\"]",
+    "CreatedOn": "2025-03-25 16:16",
+    "DisplayCreatedOn": "2025-03-25 16:16",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 87,
+    "GroupName": "AllRegion",
+    "GroupType": "Region",
+    "Settings": "[\"AFE\", \"AFN\", \"AFW\", \"AFZ\", \"ANZ\", \"ARG\", \"ASC\", \"ASE\", \"ASO\", \"ASR\", \"BRA\", \"CAN\", \"CHN\", \"ENE\", \"ENW\", \"EUE\", \"EUW\", \"GBR\", \"IDN\", \"IND\", \"IRN\", \"JPN\", \"KOR\", \"LAM\", \"MEA\", \"MEX\", \"RUS\", \"SAU\", \"TUR\", \"USA\", \"ZAF\"]",
+    "CreatedOn": "2024-02-19 16:26",
+    "DisplayCreatedOn": "2024-02-19 16:26",
+    "UserName": "chiodi"
+  },
+  {
+    "SavedGroupId": 82,
+    "GroupName": "AllScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 263754}, {\"Name\": \"GHG_Absorption\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1674}, {\"Name\": \"PWR_Batteries\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 7440}, {\"Name\": \"UPS_Hydrogen\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 13020}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 51731}, {\"Name\": \"TradeParameters\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"TS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 17160}, {\"Name\": \"00_DataByTimeslice_20\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 27900}, {\"Name\": \"00_GHG_EmiFact\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 69336}, {\"Name\": \"01_DemandProjections_SSP2\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 12276}]",
+    "CreatedOn": "2025-03-25 16:16",
+    "DisplayCreatedOn": "2025-03-25 16:16",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 89,
+    "GroupName": "AllScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"GHG_Absorption\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SR\"}, {\"Name\": \"PWR_Batteries\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\"}, {\"Name\": \"UPS_Hydrogen\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SS\"}, {\"Name\": \"TradeParameters\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"TS\"}, {\"Name\": \"00_DataByTimeslice_20\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\"}, {\"Name\": \"00_GHG_EmiFact\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"RS\"}, {\"Name\": \"01_DemandProjections_SSP2\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\"}]",
+    "CreatedOn": "2024-03-13 11:12",
+    "DisplayCreatedOn": "2024-03-13 11:12",
+    "UserName": "chiodi"
+  },
+  {
+    "SavedGroupId": 86,
+    "GroupName": "Baseline",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"PWR_Batteries\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SR\"}, {\"Name\": \"UPS_Hydrogen\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\"}, {\"Name\": \"GHG_Absorption\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SS\"}, {\"Name\": \"TradeParameters\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"TS\"}, {\"Name\": \"00_DataByTimeslice_20\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\"}, {\"Name\": \"00_GHG_EmiFact\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"RS\"}, {\"Name\": \"00_Potentials\", \"Checked\": false, \"RowOrder\": 8, \"ShortName\": \"RS\"}, {\"Name\": \"01_DemandProjections_SSP2\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\"}]",
+    "CreatedOn": "2024-02-29 16:26",
+    "DisplayCreatedOn": "2024-02-29 16:26",
+    "UserName": "chiodi"
+  },
+  {
+    "SavedGroupId": 84,
+    "GroupName": "DefaultProperties",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2025-03-25 16:16",
+    "DisplayCreatedOn": "2025-03-25 16:16",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 88,
+    "GroupName": "DefaultProperties",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2024-02-19 16:26",
+    "DisplayCreatedOn": "2024-02-19 16:26",
+    "UserName": "chiodi"
+  },
+  {
+    "SavedGroupId": 93,
+    "GroupName": "save sol info",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"1\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": true, \"SaveSolutionInformation\": true, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2025-03-27 14:27",
+    "DisplayCreatedOn": "2025-03-27 14:27",
+    "UserName": "akanu"
+  },
+  {
+    "SavedGroupId": 85,
+    "GroupName": "TIMES-GEO",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"1\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2023-02-20 14:59",
+    "DisplayCreatedOn": "2023-02-20 14:59",
+    "UserName": "chiodi"
+  }
 ]
